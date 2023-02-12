@@ -1,0 +1,26 @@
+//主颜色
+
+$primary-color: #E5F3FE;
+
+/* 颜色变量 */
+
+/* 行为相关颜色 */
+$color-hover: #008EFA;
+$color-success: #4cd964;
+$color-warning: #f0ad4e;
+$color-error: #dd524d;
+
+/* 文字基本颜色 */
+$text-color:#333;//基本色
+$text-color-inverse:#fff;//反色
+$text-color-grey:#999;//辅助灰色，如加载更多的提示信息
+
+/* 背景颜色 */
+$bg-color:#E5F3FE;
+$bg-color-grey:#f8f8f8;
+$bg-color-hover:#f1f1f1;//点击状态颜色
+$bg-color-mask:rgba(14, 85, 163, 0.5);//登录遮罩颜色
+
+/* 边框颜色 */
+$border-color:#c8c7cc;
+
